@@ -8,7 +8,7 @@
 
 
 
-A tool for export and export script files from the Maliesystem engine, specifically designed for the **Dies irae \~~Amantes Amentes~~ Nintendo Switch version**.
+A tool for export and import script files from the Maliesystem engine, specifically  for the **Dies irae \~~Amantes Amentes~~ Nintendo Switch version**.
 
 Mainly used for Chinese localization of Phanteon prologue -- **The Savior listed in the seat of God (Saoshyant-desatir)**.
 
